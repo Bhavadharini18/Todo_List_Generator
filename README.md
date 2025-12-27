@@ -3,9 +3,6 @@
 A **modern, interactive To-Do List web application** to help you manage tasks efficiently.  
 Built with **HTML, CSS, JavaScript**, and **localStorage** for persistent task management.  
 
-<p align="center">
-  <img src="demo_screenshot.png" width="600" alt="To-Do List App Screenshot" />
-</p>
 
 ---
 
